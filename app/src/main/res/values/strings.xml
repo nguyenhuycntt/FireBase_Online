@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBaseOnline</string>
+    <string name="user_name">user name</string>
+    <string name="name">Name</string>
+    <string name="password">password</string>
+    <string name="name">Name</string>
+    <string name="login">LOGIN</string>
+    <string name="signout">SIGNOUT</string>
+</resources>
